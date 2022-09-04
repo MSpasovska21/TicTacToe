@@ -34,10 +34,10 @@ namespace TicTacToe
             tbInstructions.Text += "3. Play alternates until one player gets THREE marks in a row. " +
                 "The three in a row can be horizontal, vertical or diagonal. \r\n\r\n\r\n";
             tbInstructions.Text += "HOW TO WIN \r\n\r\n";
-            tbInstructions.Text += "If you are the first player to get three of your marks in a row, you win the game! \r\n\r\n\r\n";
+            tbInstructions.Text += "If you are the first player to get three of your marks in a row, you win the round! You can play as many rounds as you want. The player with bigger score win the game! \r\n\r\n\r\n";
             tbInstructions.Text += "TO START ANOTHER GAME \r\n\r\n";
-            tbInstructions.Text += "Once when you close the finished game, you will be returned on the main page and you can " +
-                "choose PLAY again. \r\n\r\n\r\n";
+            tbInstructions.Text += "Once when you finished the round, you can start another round by pressing RESTART, " +
+                "or you can choose NEW GAME and start all over again. \r\n\r\n\r\n";
             tbInstructions.Text += "HISTORY \r\n\r\n";
             tbInstructions.Text += "Games played on three-in-a-row boards can be traced back to ancient Egypt, " +
                 "where such game boards have been found on roofing tiles dating from around 1300 BC. " +

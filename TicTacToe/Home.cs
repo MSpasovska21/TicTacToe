@@ -60,7 +60,7 @@ namespace TicTacToe
 
         private void Play_Click(object sender, EventArgs e)
         {
-            Options fo = new Options();
+            Game fo = new Game();
             this.Hide();
             fo.Show();
         }

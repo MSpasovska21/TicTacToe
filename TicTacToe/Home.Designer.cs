@@ -53,7 +53,7 @@
             // btnHowToPlay
             // 
             this.btnHowToPlay.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.btnHowToPlay.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHowToPlay.Font = new System.Drawing.Font("Segoe Script", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHowToPlay.Location = new System.Drawing.Point(367, 351);
             this.btnHowToPlay.Name = "btnHowToPlay";
             this.btnHowToPlay.Size = new System.Drawing.Size(175, 45);
